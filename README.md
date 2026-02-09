@@ -23,7 +23,7 @@ User-friendly interface
 
 Email support for queries
 
-🛠 Tech Stack (Example)
+🛠 Tech Stack 
 
 Frontend: HTML, CSS, JavaScript
 
